@@ -8,6 +8,7 @@
 .main {
     font-size: xx-large;
     color: white;
+    margin: auto;
 }
 
 body {
@@ -66,7 +67,7 @@ body {
     text-align: center;
     width: 400px;
     justify-content: center;
-    margin-left: 39%;
+    margin: auto;
 
 }
 
@@ -104,3 +105,4 @@ body {
     color: #90006e;
     font-size: 25px;
 }
+
